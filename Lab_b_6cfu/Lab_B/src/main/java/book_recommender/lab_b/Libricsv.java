@@ -11,6 +11,8 @@
  
  */
 package book_recommender.lab_b;
+import book_recommender.lab_b.nonservira.Main;
+
 import java.io.*;
 import java.util.*;
 

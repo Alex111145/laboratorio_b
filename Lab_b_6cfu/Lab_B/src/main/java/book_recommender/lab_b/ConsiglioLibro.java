@@ -9,6 +9,8 @@
  */
 
 package book_recommender.lab_b;
+import book_recommender.lab_b.nonservira.Main;
+
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
