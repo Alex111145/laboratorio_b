@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.Font?>
+
+<ScrollPane xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Book_Recommender.controllers.RegistrationController"
+            fitToWidth="true" prefHeight="600.0" prefWidth="600.0">
+    <content>
+        <AnchorPane prefHeight="600.0" prefWidth="600.0" style="-fx-background-color: white;">
+            <children>
+                <!-- qui incolliamo tutta la tua VBox come prima -->
+                <!-- sostituisci qui il contenuto del tuo vecchio AnchorPane con la VBox -->
+            </children>
+        </AnchorPane>
+    </content>
+</ScrollPane>
