@@ -12,7 +12,7 @@
  
  */
 
-package book_recommender.lab_b;
+package book_recommender.lab_b.base;
 import java.util.HashMap;
 import java.util.Map;
 

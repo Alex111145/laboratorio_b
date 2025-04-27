@@ -7,7 +7,7 @@
 
  
  */
-package book_recommender.lab_b;
+package book_recommender.lab_b.base;
 import book_recommender.lab_b.nonservira.Main;
 
 import java.io.*;

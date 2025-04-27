@@ -8,7 +8,7 @@
  
  */
 package book_recommender.lab_b.nonservira;
-import book_recommender.lab_b.*;
+import book_recommender.lab_b.base.*;
 
 import java.io.BufferedReader;
 import java.io.File;
